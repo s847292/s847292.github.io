@@ -1,0 +1,88 @@
+body {
+    background-color: beige;
+    font-family: Calibri;
+}
+
+#titleblock {
+    background-image: linear-gradient(to bottom, Skyblue, Pink);
+}
+
+#title, #job, #location {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: White;
+}
+
+#job {
+    font-size: 25px;
+    font-weight: bold;
+    color: White;
+}
+
+#location {
+    font-size: 25px;
+    font-weight: bold;
+    color: White;
+}
+
+
+a {
+    color: darkslategray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: Orange;
+}
+
+#navigator {
+    display: flex;
+    justify-content: center;
+}
+
+.navilink {
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+.navilink:hover {
+    transform: scale(1.5);
+    
+}
+
+#link {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.contactlink {
+    padding: 20px;
+    margin: 50px;
+   
+}
+
+#linkimg {
+    width: 50px;
+    height: 50px;
+}
+
+#linkimg:hover {
+       transform: scale(1.5);
+}
+
+#backtotop {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
