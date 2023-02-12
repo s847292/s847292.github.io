@@ -61,8 +61,12 @@ a:hover {
 #seanimg {
     width: 640px;
     height: 640px;
-    align-right: 100px;
+    float: right;
+    margin: 5px;
 }
+
+#hello {
+    
 
 
 #link {
