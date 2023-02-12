@@ -66,8 +66,11 @@ a:hover {
 }
 
 #hello {
-    
-
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+}
 
 #link {
     list-style-type: none;
