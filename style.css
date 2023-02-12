@@ -50,14 +50,18 @@ a:hover {
     font-weight: bold;
     font-size: 20px;
     padding: 20px;
-    margin: 25px;
-    
+    margin: 25px;  
 }
 
 .navilink:hover {
     transform: scale(1.5);
-    
+   
 }
+
+#seanimg {
+    justify-content: center;
+}
+
 
 #link {
     list-style-type: none;
