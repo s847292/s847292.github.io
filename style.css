@@ -59,9 +59,9 @@ a:hover {
 }
 
 #seanimg {
-    transform: scale(0.5)
+    width: 640px;
+    height: 640px;
     align-right: 100px;
-    
 }
 
 
