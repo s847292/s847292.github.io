@@ -55,13 +55,13 @@ a:hover {
 
 .navilink:hover {
     transform: scale(1.3);
-   
 }
 
 #seanimg {
     width: 640px;
     height: 640px;
-    vertical-align: middle;        
+    vertical-align: middle;
+    align-right; 10px;
 }
 
 #hello {
@@ -79,8 +79,7 @@ a:hover {
 
 .contactlink {
     padding: 20px;
-    margin: 50px;
-   
+    margin: 50px; 
 }
 
 #linkimg {
