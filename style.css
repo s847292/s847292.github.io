@@ -87,6 +87,10 @@ span>ul {
     vertical-align: middle;
 }
 
+footer {
+    justify-content: center;
+}
+
 #link {
     list-style-type: none;
     display: flex;
