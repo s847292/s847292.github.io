@@ -62,7 +62,7 @@ a:hover {
     font-weight: bold;
     font-size: 50px;
     font-style: italic;
-    justify-content: Center;
+    text-align: center;
 }
 
 #seanimg {
