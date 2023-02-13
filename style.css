@@ -63,11 +63,15 @@ a:hover {
 
 #hello {
     font-family: cursive;
-    font-size: 50px;
+    font-size: 20px;
     font-style: italic;
     margin-left: 300px;
     margin-right: 100px
     }
+
+#seanlee {
+    font-size: 50px
+}
 
 #seanimg {
     width: 640px;
