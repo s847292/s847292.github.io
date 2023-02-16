@@ -62,7 +62,7 @@ a:hover {
     display: inline-flex;
 }
 span {
-    display: inline-block;
+    display: inline-flex;
 }
 
 span>ul {
