@@ -63,6 +63,8 @@ a:hover {
 }
 span {
     display: inline-flex;
+    vertical-align: middle;
+    margin: 0 auto;
 }
 
 span>ul {
