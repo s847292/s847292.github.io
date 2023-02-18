@@ -59,7 +59,7 @@ a:hover {
 
 #intro {
     display: inline-flex;
-    margin: 0 auto;
+    justify-content: center;
 }
 span {
     display: inline-flex;
