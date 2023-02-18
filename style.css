@@ -58,7 +58,6 @@ a:hover {
 }
 
 #intro {
-    float: center;
     display: inline-flex;
     margin: 0 auto;
 }
